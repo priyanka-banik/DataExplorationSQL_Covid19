@@ -1,2 +1,7 @@
-# priyanka-banik-DataExplorationSQL_Covid19
-A dataset based on Covid19 is considered
+# DataExplorationSQL_Covid19
+
+A dataset based on Covid19 is considered and is divided into two datasets for exploration purpose in Excel. One specifically for the Death cases and the the other for vaccination purposes.Utilized these datasets to conduct a comprehensive analysis of death rates and vaccination distribution across continents. Employed a range of advanced SQL techniques, including aggregate functions to summarize data, joins to merge datasets, CTEs for temporary data storage, and temporary tables for intermediate results. Additionally, employed casting functions to ensure data compatibility and various clauses such as ORDER BY and GROUP BY for data organization.
+
+Implemented window functions to calculate aggregated statistics over specified ranges, enhancing analytical capabilities. By integrating these techniques, the analysis aimed to provide a nuanced understanding of the pandemic's impact globally. Furthermore, the utilization of CTEs allowed for streamlined query execution and improved readability, while the incorporation of temporary tables facilitated the breakdown of complex tasks into manageable components.
+
+Overall, the combination of these methodologies facilitated a thorough exploration of the dataset, enabling the extraction of meaningful insights regarding Covid19's effect on different regions. This approach ensured the delivery of accurate and actionable information necessary for informed decision-making and strategic planning in addressing the ongoing pandemic.
